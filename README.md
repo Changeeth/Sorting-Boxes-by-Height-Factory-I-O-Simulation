@@ -87,6 +87,14 @@ The **ladder logic** in Connected Components Workbench handles:
 </p>
 
 ---
+
+## 🎥 Demonstration Video
+
+▶️ Watch the full simulation here:  
+[**Sorting Boxes by Height – YouTube Demonstration**](https://your-youtube-link-here)
+
+---
+
 ## 📘 Key Learning Outcomes
 
 - Integration of **Factory IO** with **CCW** and **Micro850 virtual PLC**.  
