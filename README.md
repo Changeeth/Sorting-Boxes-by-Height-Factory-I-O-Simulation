@@ -1,10 +1,5 @@
 # 📦 Sorting Boxes by Height – Factory IO Simulation
 
-This project demonstrates an automated **box-sorting system** based on height using **Factory IO** and **Allen-Bradley’s Connected Components Workbench (CCW)** with a **Micro850 (2080-LC50)** PLC simulation.  
-The setup replicates a real-world factory environment where boxes are identified and sorted into categories using industrial sensors and conveyor systems.
-
----
-
 ## 🎯 Project Overview
 
 The system automates a **Sorting Boxes by Height** process within a virtual factory designed in **Factory IO**.  
