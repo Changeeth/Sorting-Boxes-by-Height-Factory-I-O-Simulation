@@ -73,22 +73,22 @@ The **ladder logic** in Connected Components Workbench handles:
 
 ### 🧩 Factory IO Simulation Environment
 <p align="center">
-  <img src="images/img01" width="45%" />
-  <img src="images/img02" width="45%" />
+  <img src="images/img01.png" width="45%" />
+  <img src="images/img02.png" width="45%" />
 </p>
 <p align="center">
-  <img src="images/img03" width="45%" />
+  <img src="images/img03.png" width="45%" />
 </p>
 
 ---
 
 ### 🪜 Connected Components Workbench (CCW) Ladder Logic
 <p align="center">
-  <img src="images/img04" width="45%" />
-  <img src="images/img05" width="45%" />
+  <img src="images/img04.png" width="45%" />
+  <img src="images/img05.png" width="45%" />
 </p>
 <p align="center">
-  <img src="images/img06" width="45%" />
+  <img src="images/img06.png" width="45%" />
 </p>
 
 ---
