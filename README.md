@@ -72,22 +72,26 @@ The **ladder logic** in Connected Components Workbench handles:
 ## 🖼️ Snapshots
 
 ### 🧩 Factory IO Simulation Environment
-*(Include screenshots here)*  
-![Factory IO Scene](images/factoryio_scene.png)
+<p align="center">
+  <img src="images/factoryio_1.png" width="45%" />
+  <img src="images/factoryio_2.png" width="45%" />
+</p>
+<p align="center">
+  <img src="images/factoryio_3.png" width="45%" />
+</p>
+
+---
 
 ### 🪜 Connected Components Workbench (CCW) Ladder Logic
-*(Include screenshots here)*  
-![CCW Ladder Logic](images/ccw_ladder.png)
+<p align="center">
+  <img src="images/ccw_1.png" width="45%" />
+  <img src="images/ccw_2.png" width="45%" />
+</p>
+<p align="center">
+  <img src="images/ccw_3.png" width="45%" />
+</p>
 
 ---
-
-## 🎥 Demonstration Video
-
-▶️ Watch the full simulation here:  
-[**Sorting Boxes by Height – YouTube Demonstration**](https://your-youtube-link-here)
-
----
-
 ## 📘 Key Learning Outcomes
 
 - Integration of **Factory IO** with **CCW** and **Micro850 virtual PLC**.  
