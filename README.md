@@ -109,7 +109,7 @@ The **ladder logic** in Connected Components Workbench handles:
 **Changeethan Sujinthan**  
 Undergraduate – Electrical Engineering  
 University of Moratuwa  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+🔗 [LinkedIn](https://www.linkedin.com/in/changeethan-sujinthan-7069a7327/)  
 
 ---
 
